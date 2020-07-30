@@ -4,26 +4,10 @@
 
 [en] My name is Rafael Zanini Francucci from Brazil (🇧🇷). I'm a front-end developer (ReactJS) | with a great curiosity in data science, machine learning and artificial intelligence.
 
-[pt] Em meu tempo livre gosto de praticar Jiu-jitsu (🥋), musculação (💪🏼), correr (🏃🏼), ler (📚), assistir NBA (🏀), conversar com amigos (🗣️🏻) e ficar com minha família(👨‍👩‍👧).
+[pt] Em meu tempo livre gosto de praticar Jiu-jitsu (🥋), musculação (💪🏼), correr (🏃🏼), ler (📚), assistir NBA (🏀), conversar com amigos (🗣️) e ficar com minha família(👨‍👩‍👧).
 
-[en] In my free time I like to practice Jiu-jitsu (🥋), bodybuilding (💪🏼), run (🏃🏼), read (📚), watch NBA (🏀), chat with friends (🗣️🏻) and stay with my family (👨‍👩‍👧).
-
+[en] In my free time I like to practice Jiu-jitsu (🥋), bodybuilding (💪🏼), run (🏃🏼), read (📚), watch NBA (🏀), chat with friends (🗣️) and stay with my family (👨‍👩‍👧).
 
 Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rafaelzaninifrancucci/)](https://www.linkedin.com/in/rafaelzaninifrancucci/)
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
