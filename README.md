@@ -8,7 +8,7 @@ My name is Rafael Zanini Francucci. I'm a front-end developer (ReactJS) | with g
 
 In my spare time I basically focus on three points:
 
-1 - Practicing sports to keep me in good spirits, mentally and physically.
+1 - Practicing sports to keep me in good spirits, mentally and physically.<br />
 2 - Study practice, to maintain what I already know and acquire new information;
 3 - Socializing with friends and family to never forget who I am.
 
