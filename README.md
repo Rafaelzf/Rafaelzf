@@ -1,11 +1,7 @@
 ### Hi there! 😁
 
- My name is Rafael Zanini Francucci from Brazil (🇧🇷). I'm a front-end developer (ReactJS) | with a great curiosity in data science, machine learning and artificial intelligence.
+ My name is Rafael Zanini Francucci. I'm a front-end developer (ReactJS) | with great curiosity in data science, machine learning and A.I.
  
-[en] Hello! 😁
-
-My name is Rafael Zanini Francucci. I'm a front-end developer (ReactJS) | with great curiosity in data science, machine learning and A.I.
-
 In my spare time I basically focus on three points:<br />
 1 - Practicing sports to keep me in good spirits, mentally and physically.<br />
 2 - Study practice, to maintain what I already know and acquire new information;<br />
